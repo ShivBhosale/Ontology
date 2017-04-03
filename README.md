@@ -1,4 +1,4 @@
-#Ontology Based Search Engine
+# Ontology Based Search Engine
 
 This search engine uses a science (physics) ontology to expand the search query which is forwarded to a python script that uses text-mining to extract relevant information about the query from wikipedia and displays the summarized content. This approach is taken to ensure domain specific search results. For instance, searching for the query "Energy" should give me results in physics domain and not show results about "Energy drinks", which in fact is a more popular search result.
 
