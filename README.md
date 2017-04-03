@@ -44,10 +44,6 @@ and you shall see the home page.
 Enter a query related to Physics (Eg: einstein, buoyancy etc) to see the results.
 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * PHP - The web framework used
@@ -61,3 +57,4 @@ Add additional notes about how to deploy this on a live system
 
 * My team members who were as "jugaadu" as me
 * Wikipedia
+* PurpleBooth for this Readme.md template
